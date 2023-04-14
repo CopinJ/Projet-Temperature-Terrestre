@@ -1,10 +1,10 @@
 <h1>Projet Température Terrestre</h1>
 
 <h2>Description</h2>
-Le but du projet etait d'analyser l'évolution des anomalies de température dans le monde et d'en définir les causes. Nous avons ensuite décidé d'essayer de prédire les températures à venir. 
+The goal of the project was to analyze the evolution of temperature anomalies in the world and to define their causes. We then decided to try to predict future temperatures. 
 <br />
 
-<h2>Langages et Outils</h2>
+<h2>Languages and Tools</h2>
 
 - <b>Python</b> 
 - <b>PowerBI</b>
@@ -12,19 +12,19 @@ Le but du projet etait d'analyser l'évolution des anomalies de température dan
 <h2>Code:</h2>
 
 <p align="center">
-Création du dataframe <br/>
+Dataframe creation <br/>
 <img src="https://i.imgur.com/mcPfkk7.png" height="80%" width="80%" alt="Création du dataframe"/>
 <br />
 <br />
-Première visualisation:  <br/>
+First visualization:  <br/>
 <img src="https://i.imgur.com/YVKyST6.png" height="80%" width="80%" alt="Première visualisation"/>
 <br />
 <br />
-Création du modèle: <br/>
+Model creation: <br/>
 <img src="https://i.imgur.com/RIuXCgk.png" height="80%" width="80%" alt="Création du modèle"/>
 <br />
 <br />
-Power BI anomalie de température:  <br/>
+Power BI temperature anomaly:  <br/>
 <img src="https://i.imgur.com/JmsTQeM.png" height="80%" width="80%" alt="Rapport"/>
 <br />
 <br />
@@ -32,7 +32,7 @@ Power BI Machine Learning:  <br/>
 <img src="https://i.imgur.com/WOdSmNt.png" height="80%" width="80%" alt="Rapport"/>
 <br />
 <br />
-Série Temporelle:  <br/>
+Time Series:  <br/>
 <img src="https://i.imgur.com/8V1u8g8.png" height="80%" width="80%" alt="Rapport"/>
 <br />
 <br />
